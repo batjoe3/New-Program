@@ -1,1 +1,5 @@
 # MyNewProgram
+
+# **LinearRegression**
+
+# **LogisticRegression**
